@@ -1,5 +1,5 @@
 {
-    "name":"yosymfony/resource-watcher",
+    "name":"ahmadelsaeed/php8-resource-watcher",
     "description": "A simple resource watcher using Symfony Finder",
     "keywords": ["resources","watcher","finder","symfony"],
     "license": "MIT",
